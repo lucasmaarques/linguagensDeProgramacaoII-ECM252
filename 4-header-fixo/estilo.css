@@ -3,7 +3,7 @@
 .color-primary-2 { color: #29506D }
 .color-primary-3 { color: #042238 }
 .color-primary-4 { color: #011321 }
-
+.inlineblock{display: inline-block;margin-left: 60%}
 
 /*Inicializacao padrao*/
 * {
@@ -40,6 +40,7 @@ h1, h2, h3 {
     background-color: white;
     top:0;
     opacity: 0.75;
+    display: inline-block;
 }
 
 .logo {
